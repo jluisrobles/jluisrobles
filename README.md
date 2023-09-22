@@ -2,7 +2,7 @@
 <img src="https://www.xoriant.com/cdn/ff/uiC63cumE2s7Kg5JAOLfg0N_x6cabVMzOS1r2e5_Dtw/1677582244/public/2023-02/Updated%20gif.gif" alt="GIF Animado" width="1000" height="200" />
 <h3 align="center">I am a passionate Data Science & Visualization enthusiast</h3>
 <a href="https://drive.google.com/file/d/1szGNwYfgJnhUX5Z0kACuSCxWB6QC6LK5/view?usp=sharing" target="_blank">
-  <img src="https://i.imgur.com/pAV49xJ.jpg" alt="C.V." width="100" height="200">
+  <img src="https://i.imgur.com/pAV49xJ.jpg" alt="C.V." width="130" height="100">
 </a>
 
 
