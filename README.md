@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm JOSE LUIS ROBLES</h1>
-<a href="https://drive.google.com/file/d/abcd1234/view?usp=sharing" target="_blank">
-  <img src="https://github.com/tu_usuario/tu_repositorio/blob/main/imagen.jpg" alt="C.V.">
+<a href="https://drive.google.com/file/d/1szGNwYfgJnhUX5Z0kACuSCxWB6QC6LK5/view?usp=sharing" target="_blank">
+  <img src="https://i.imgur.com/pAV49xJ.jpg" alt="C.V.">
 </a>
 
 <img src="https://www.xoriant.com/cdn/ff/uiC63cumE2s7Kg5JAOLfg0N_x6cabVMzOS1r2e5_Dtw/1677582244/public/2023-02/Updated%20gif.gif" alt="GIF Animado" width="1000" height="200" />
