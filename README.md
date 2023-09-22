@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JOSE LUIS ROBLES</h1>
-![GIF Animado](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e8e88299557129.5ef5332bcab25.gif)
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e8e88299557129.5ef5332bcab25.gif" alt="GIF Animado" width="400" height="400" />
 <h3 align="center">I am a passionate Data Science & Visualization enthusiast</h3>
 
 - 💬 Ask me about **Python, R, Java | SQL, Pandas, Matplotlib | Tableau, Power BI | Deep Learning, MongoDB**
