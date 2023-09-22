@@ -2,7 +2,7 @@
 <img src="https://www.xoriant.com/cdn/ff/uiC63cumE2s7Kg5JAOLfg0N_x6cabVMzOS1r2e5_Dtw/1677582244/public/2023-02/Updated%20gif.gif" alt="GIF Animado" width="1000" height="200" />
 <h3 align="center">I am a passionate Data Science & Visualization enthusiast</h3>
 ## Video Currículum
-[![Video Currículum](https://static.vecteezy.com/system/resources/previews/005/992/915/non_2x/resume-color-icon-cv-curriculum-vitae-personal-information-isolated-illustration-vector.jpg)](https://drive.google.com/file/d/1szGNwYfgJnhUX5Z0kACuSCxWB6QC6LK5/view?usp=sharing)
+[![Video CV](https://i.imgur.com/pAV49xJ.jpg)](https://drive.google.com/file/d/1szGNwYfgJnhUX5Z0kACuSCxWB6QC6LK5/view?usp=sharing)
 
 - 💬 Ask me about **Python, R, Java | SQL, Pandas, Matplotlib | Tableau, Power BI | Deep Learning, MongoDB**
 
