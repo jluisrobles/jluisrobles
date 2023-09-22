@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JOSE LUIS ROBLES</h1>
-[![C.V.](https://img.freepik.com/vector-premium/curriculum-vitae-ilustracion-vector-caracteres_138676-244.jpg)](https://drive.google.com/file/d/1szGNwYfgJnhUX5Z0kACuSCxWB6QC6LK5/view?usp=sharing)
+[![C.V.](https://static.vecteezy.com/system/resources/previews/005/992/915/non_2x/resume-color-icon-cv-curriculum-vitae-personal-information-isolated-illustration-vector.jpg)](https://drive.google.com/file/d/1szGNwYfgJnhUX5Z0kACuSCxWB6QC6LK5/view?usp=sharing)
 
 
 <img src="https://www.xoriant.com/cdn/ff/uiC63cumE2s7Kg5JAOLfg0N_x6cabVMzOS1r2e5_Dtw/1677582244/public/2023-02/Updated%20gif.gif" alt="GIF Animado" width="1000" height="200" />
