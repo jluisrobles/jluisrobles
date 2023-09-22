@@ -2,7 +2,8 @@
 <img src="https://www.xoriant.com/cdn/ff/uiC63cumE2s7Kg5JAOLfg0N_x6cabVMzOS1r2e5_Dtw/1677582244/public/2023-02/Updated%20gif.gif" alt="GIF Animado" width="1000" height="200" />
 <h3 align="center">I am a passionate Data Science & Visualization enthusiast</h3>
 ## Video Currículum
-[![Video Currículum](https://us.123rf.com/450wm/alexwhite/alexwhite1510/alexwhite151005551/47055087-cv-c%C3%ADrculo-azul-3d-icono-plana-dise%C3%B1o-moderno-en-el-fondo-blanco.jpg)](https://drive.google.com/file/d/1szGNwYfgJnhUX5Z0kACuSCxWB6QC6LK5/view?usp=sharing)
+[![Video Currículum](https://img.freepik.com/vector-premium/curriculum-vitae-ilustracion-vector-caracteres_138676-244.jpg)](https://drive.google.com/file/d/1szGNwYfgJnhUX5Z0kACuSCxWB6QC6LK5/view?usp=sharing)
+
 - 💬 Ask me about **Python, R, Java | SQL, Pandas, Matplotlib | Tableau, Power BI | Deep Learning, MongoDB**
 
 - 📫 How to reach me **joseroblesarce@yahoo.es**
