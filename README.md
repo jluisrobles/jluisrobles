@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm JOSE LUIS ROBLES</h1>
 <h3 align="center">I am a passionate Data Science & Visualization enthusiast</h3>
 
